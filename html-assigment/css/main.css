@@ -31,12 +31,12 @@ nav ul li{display: inline;;
 
 /* adds an class */
 
-.title {
+.site-title {
     color:coral
 }
 /* adds an id */
 
-#my-image{
+#myimage{
     box-shadow: 0 0 2px 1px black;
 }
 
